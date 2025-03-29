@@ -2,6 +2,10 @@
 
 This repository contains an analysis of IoT device telemetry data collected from three smart devices between July 12-20, 2020. The dataset includes measurements of temperature, humidity, air quality (CO, LPG, smoke), light status, and motion detection.
 
+| Dataset | [telemetry_data.csv](https://drive.google.com/file/d/1LLvC8VJbfBYmFm22uP7gqgNPByg8GCY7/view?usp=sharing) |
+|----------|------|
+
+
 **Key features of this project:**
 - Data cleaning and preprocessing (outlier removal, unit conversion)
 - Time series visualization of temperature and humidity trends
