@@ -53,8 +53,8 @@ This repository contains an analysis of IoT device telemetry data collected from
     </td>
     <td align="center" width="20%">
       <img src="https://github.com/user-attachments/assets/6bfb1f4f-6252-49c0-ace2-bbeff3329270" width="100%">
-      <br><strong>Temperature</strong>
-      <br><em>Centered at 75°F</em>
+      <br><strong>Liquid Petroleum Gas</strong>
+      <br><em>Centered at 0.007</em>
     </td>
     <td align="center" width="20%">
       <img src="https://github.com/user-attachments/assets/255c526e-ad46-4027-a0db-6ca7a93a5197" width="100%">
