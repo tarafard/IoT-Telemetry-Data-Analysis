@@ -63,7 +63,7 @@ This repository contains an analysis of IoT device telemetry data collected from
     </td>
     <td align="center" width="20%">
       <img src="https://github.com/user-attachments/assets/ce5e16b6-f1f4-4c2f-99dc-b545b2228221" width="100%">
-      <br><strong>Log-Transformed</strong>
+      <br><strong>Temperature</strong>
       <br><em>Underlying patterns</em>
     </td>
   </tr>
