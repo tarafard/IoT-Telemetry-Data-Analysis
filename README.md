@@ -77,8 +77,8 @@ This repository contains an analysis of IoT device telemetry data collected from
   <tr>
     <td align="center" width="20%">
       <img src="https://github.com/user-attachments/assets/af0dc650-41e1-4204-98db-d8cf921e7d8c" width="100%">
-      <br><strong>Device Temperatures</strong>
-      <br><em>Calibration differences</em>
+      <br><strong>Environmental Correlations</strong>
+      <br><em>Factor relationships</em>
     </td>
     <td align="center" width="20%">
       <img src="https://github.com/user-attachments/assets/7efac3de-abcb-4f6c-8af7-96b25fd3d016" width="100%">
@@ -97,8 +97,8 @@ This repository contains an analysis of IoT device telemetry data collected from
     </td>
     <td align="center" width="20%">
       <img src="https://github.com/user-attachments/assets/81b00bbe-1399-46c4-8471-1f589abaec7e" width="100%">
-      <br><strong>Environmental Correlations</strong>
-      <br><em>Factor relationships</em>
+      <br><strong>Device Temperatures</strong>
+      <br><em>Calibration differences</em>
     </td>
   </tr>
 </table>
