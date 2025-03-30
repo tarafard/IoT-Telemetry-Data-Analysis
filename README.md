@@ -87,7 +87,7 @@ This repository contains an analysis of IoT device telemetry data collected from
     </td>
     <td align="center" width="20%">
       <img src="https://github.com/user-attachments/assets/3c7f3816-83d3-43b5-a246-1224e859cccd" width="100%">
-      <br><strong>CO by Device</strong>
+      <br><strong>Liquid Petroleum Gas (LPG)</strong>
       <br><em>Concentration patterns</em>
     </td>
     <td align="center" width="20%">
